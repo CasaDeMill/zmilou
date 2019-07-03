@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zmilou/static/css/main.f47ee400.chunk.css",
+    "main.js": "/zmilou/static/js/main.46cae4b2.chunk.js",
+    "main.js.map": "/zmilou/static/js/main.46cae4b2.chunk.js.map",
+    "runtime~main.js": "/zmilou/static/js/runtime~main.118bcf32.js",
+    "runtime~main.js.map": "/zmilou/static/js/runtime~main.118bcf32.js.map",
+    "static/js/2.eac4ff69.chunk.js": "/zmilou/static/js/2.eac4ff69.chunk.js",
+    "static/js/2.eac4ff69.chunk.js.map": "/zmilou/static/js/2.eac4ff69.chunk.js.map",
+    "index.html": "/zmilou/index.html",
+    "precache-manifest.bd1b58f884adab9ab3824e6baacc520d.js": "/zmilou/precache-manifest.bd1b58f884adab9ab3824e6baacc520d.js",
+    "service-worker.js": "/zmilou/service-worker.js",
+    "static/css/main.f47ee400.chunk.css.map": "/zmilou/static/css/main.f47ee400.chunk.css.map"
+  }
+}
