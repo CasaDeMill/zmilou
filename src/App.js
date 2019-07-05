@@ -89,9 +89,7 @@ function Card() {
 
 function App() {
   return (
-    <div>
-      <Card />
-    </div>
+    <Card />
   );
 }
 
