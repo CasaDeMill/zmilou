@@ -23,20 +23,21 @@ svg {
 }
 
 .card1 {
-  min-width: 60ch;
-  min-height: 60ch; 
-  width: 45vw;
-  height: 45vw;
+  min-width: 10ch;
+  min-height: 10ch; 
+  width: 30vw;
+  height: 30vw;
   max-width: 100ch;
   max-height: 100ch;
-  background-image: url(https://image.flaticon.com/icons/svg/119/119596.svg);
+  background-image: url(https://image.flaticon.com/icons/svg/149/149977.svg);
 }
 
 .card2 {
-  margin-top: 300px;
+  margin-top: 600px;
+  margin-left: 300px;
   width: 25ch;
   height: 25ch;
-  background-image: url(https://image.flaticon.com/icons/svg/789/789395.svg);
+  background-image: url(https://image.flaticon.com/icons/svg/620/620851.svg);
 }
 
 .card3 {
@@ -60,7 +61,23 @@ svg {
   align-items: center;
   justify-content: space-between;
   flex-direction: column;
-  margin-top: 100px;
+  margin-top: 250px;
+}
+
+.title {
+  font-size: 10rem;
+  margin: unset;
+  position: fixed;
+  top: 0;
+  font-family: 'Underdog', cursive;
+}
+
+html {
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-color: powderblue;
 }
 
 
