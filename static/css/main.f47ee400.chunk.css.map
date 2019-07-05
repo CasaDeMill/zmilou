@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,IACE,aAAc,CACd,YAAa,CACb,SAAU,CACV,iBAAkB,CAClB,iBAAkB,CAClB,eAAgB,CAChB,QAAS,CACT,YACF","file":"main.f47ee400.chunk.css","sourcesContent":["\nsvg {\n  display: block;\n  height: 914px;\n  left: auto;\n  overflow-x: hidden;\n  overflow-y: hidden;\n  position: static;\n  top: auto;\n  width: 1488px;\n}\n\n\n"]}
